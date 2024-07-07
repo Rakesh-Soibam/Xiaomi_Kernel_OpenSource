@@ -1,4 +1,4 @@
-| Branch | Device | Android version | Base tag | Link |
+| Branch | Device | Android version | Base tag |Link|
 | :-: | :-: | :-: | :-: | :-: |
 | air-t-oss | Redmi 13R 5G, Redmi 13C 5G | Android T | alps-mp-t0.mp1.tc8sp2-V1.32 | [air-t-oss](https://github.com/MiCode/MTK_kernel_modules/tree/air-t-oss) |
 | alioth-r-oss | Mi 10S, Redmi K40 | Android R | LA.UM.9.12.r1-08000-SMxx50.0 | [alioth-r-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/alioth-r-oss) |   
